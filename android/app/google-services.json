@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914531825790",
+    "project_id": "bloodbuddy-c694a",
+    "storage_bucket": "bloodbuddy-c694a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914531825790:android:5bcf432d259eb2e913802f",
+        "android_client_info": {
+          "package_name": "taimoor.blood_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914531825790-5ori18lkelq34vs0ajlb7jgsdoivi66b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpiGEn7Gn98u_r93V1LimQIkWWNpjs64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914531825790-5ori18lkelq34vs0ajlb7jgsdoivi66b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
